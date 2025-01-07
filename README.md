@@ -1,2 +1,2 @@
-# ALX - Software Engineering course, learning how to use GitHub
+# ALX - Software Engineering course, GitHub Tutorial
 My first readme updated!
